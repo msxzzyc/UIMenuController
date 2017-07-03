@@ -52,6 +52,7 @@
                         <color key="backgroundColor" red="1" green="0.47860958780000001" blue="0.37814721950000002" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                     </view>
                     <connections>
+                        <outlet property="label" destination="8NR-TF-JnM" id="IBH-uR-uV6"/>
                         <outlet property="webView" destination="G40-5l-5X4" id="82Q-OW-oD5"/>
                     </connections>
                 </viewController>
